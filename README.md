@@ -17,6 +17,6 @@ The steps to extract and visualize GPS coordinates are straightforward and detai
 
 
 **Example**
-- Zoom out to see more photos, click over the pop-up to get the full size image.
+- Zoom out to see more photos, click in the point to see the photo.
 <iframe src="./map_with_images.html" width="100%" height="600px"></iframe>
 
