@@ -1,6 +1,6 @@
 # Extracting GPS Information from Smartphone Photos
 
-This repository demonstrates how to extract GPS information from smartphone photos and plot it in an interactive `.html` file.
+This repository demonstrates how to extract GPS information from smartphone photos and plot it in an interactive `.html` file. Also, we generate a `.csv` file, allowing to open this coordinate in different GIS/Softwares.
 
 ## Why Extract GPS Coordinates?
 
@@ -12,8 +12,7 @@ While your phone can show you where a photo was taken, there are several reasons
 
 ## Getting Started
 
-The steps to extract and visualize GPS coordinates are straightforward and detailed in [this notebook](reading_photos.ipynb).
-
+The steps to extract and visualize GPS coordinates are straightforward and detailed in [this notebook](reading_photos.ipynb). All the `requirements` are in this [file](requirements.txt). 
 
 
 
