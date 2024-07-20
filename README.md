@@ -9,6 +9,7 @@ While your phone can show you where a photo was taken, there are several reasons
 - **Fieldwork Documentation:** If you're conducting fieldwork and need to review where each picture was taken, extracting coordinates allows you to plot all locations on a map for easy visualization.
 - **Blogging and Storytelling:** Enhance your travel blog by showcasing the exact spots where you captured stunning photos, such as sunsets or scenic views.
 
+
 ## Getting Started
 
 The steps to extract and visualize GPS coordinates are straightforward and detailed in [this notebook](reading_photos.ipynb).
@@ -16,7 +17,7 @@ The steps to extract and visualize GPS coordinates are straightforward and detai
 
 
 
-**Example**
-- Zoom out to see more photos, click in the point to see the photo.
+## Discover Michigan
+- Here is some samples of pictures (**ALL in MICHIGAN**). Zoom out to see more points, and click in the point to see the photo. Enjoy Michigan!
 <iframe src="./map_with_images.html" width="100%" height="600px"></iframe>
 
